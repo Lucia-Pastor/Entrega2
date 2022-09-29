@@ -1,0 +1,82 @@
+
+
+
+
+.logo {
+    width: 160px;
+    height: auto;
+    border: 6px outset #d6b2ac;
+}
+
+
+.footer-container {
+    color: rgb(226, 220, 200);
+    background-color: rgb(53, 87, 100);
+    padding: 10px 10px;
+}
+.lista-footer {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+/*ESTUDIO CONTABLE*/
+
+
+.encabezado-contable {
+    font-family: 'Karla', sans-serif;
+    font-size: 30px;
+    color: black;
+    font-weight: 500;
+      padding:50px;
+      margin: 15px;
+      text-shadow: 4px 4px 8px rgba(0,0,0,0.33);
+    }
+
+.foto-contable{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.parrafo-contable {
+    font-family: 'Karla', sans-serif;
+    font-size: 150px;
+    color: black;
+    padding: 20px 20px;
+}
+
+.encabezado-contable2 {
+    font-family: 'Karla', sans-serif;
+    font-size: 19px;
+    color: rgb(171, 160, 160);
+    padding: 15px;
+    margin: 10px;
+}
+
+
+.fuente {
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+    color: rgb(189, 189, 189);
+    padding: 5px;
+    margin: 3px;
+
+}
+.photo-item{
+    box-shadow: 14px 14px 15px 1px rgba(0,0,0,0.6);
+    -webkit-box-shadow: 14px 14px 15px 1px rgba(0,0,0,0.6);
+    -moz-box-shadow: 14px 14px 15px 1px rgba(0,0,0,0.6);
+
+}
+.fuente-lista {
+    font-family: 'Karla', sans-serif;
+    font-size: 15px;
+    color: black;
+    padding: 20px;
+    list-style-type: none;
+}
+   
