@@ -1,7 +1,3 @@
-
-
-
-
 .logo {
     width: 160px;
     height: auto;
@@ -14,6 +10,7 @@
     background-color: rgb(53, 87, 100);
     padding: 10px 10px;
 }
+
 .lista-footer {
     list-style: none;
     display: flex;
@@ -30,12 +27,12 @@
     font-size: 30px;
     color: black;
     font-weight: 500;
-      padding:50px;
-      margin: 15px;
-      text-shadow: 4px 4px 8px rgba(0,0,0,0.33);
-    }
+    padding: 50px;
+    margin: 15px;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.33);
+}
 
-.foto-contable{
+.foto-contable {
     display: flex;
     justify-content: center;
 }
@@ -66,12 +63,14 @@
     margin: 3px;
 
 }
-.photo-item{
-    box-shadow: 14px 14px 15px 1px rgba(0,0,0,0.6);
-    -webkit-box-shadow: 14px 14px 15px 1px rgba(0,0,0,0.6);
-    -moz-box-shadow: 14px 14px 15px 1px rgba(0,0,0,0.6);
+
+.photo-item {
+    box-shadow: 14px 14px 15px 1px rgba(0, 0, 0, 0.6);
+    -webkit-box-shadow: 14px 14px 15px 1px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 14px 14px 15px 1px rgba(0, 0, 0, 0.6);
 
 }
+
 .fuente-lista {
     font-family: 'Karla', sans-serif;
     font-size: 15px;
@@ -79,4 +78,3 @@
     padding: 20px;
     list-style-type: none;
 }
-   
